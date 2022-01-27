@@ -1,10 +1,19 @@
 body{
-    background-color: #08D9D6;
+    background-color: #000;
 }
 #title-icon{
     width : 20%
 }
 .navbar{
-    background-color: #252A34;
-    padding: 0 15% 0 7%;
+    background-color: #323232;
+    padding: 0 15% 0 0;
+}
+.container-fluid{
+    padding: 10%;
+}
+.intro{
+    border: thick solid #FF1E56;
+}
+.img{
+    border: thick solid #FF1E56;
 }
